@@ -4,4 +4,6 @@ Jessica Reiter
 
 First comment
 
-"This is a change on newbranch"
+This is a change on newbranch
+
+New git branch on GitHub
